@@ -1,3 +1,4 @@
+<pre>
                                                  jeet@totla ───────────────────────
                                                  . OS:         NYC, Dubai, SG, Ghana, India
                                                  . Host:       127.0.NewYork.1
@@ -23,6 +24,7 @@
    @@%%%#*****#**#%#***%+ :- +#*###%@###%##%     - Stats ─────────────────────────
   @@@%%####***###**%#***%-.  *#####%#%%%@#%%%    . Countries built in:      6
                                                  . VC firms:                5
-                                                 . Kickstarter funded in:   < 4 min
+                                                 . Kickstarter funded in:   &lt; 4 min
                                                  . Serve Club raised:       INR 700K+
                                                  . Ghana nonprofit reached: 1,000+
+</pre>
